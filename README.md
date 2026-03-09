@@ -1,37 +1,5 @@
-<div align="center">
-
 # Data Analysis & Visualization Coursework
 A portfolio of labs and assignments completed for a course at Western University. The work covers a progression from core Python programming to data analysis, visualization, network analysis, geospatial mapping, and natural language processing.
-
-
-</div>
-
-## 🛠️ Tools & Libraries
-
-#### Data Science
-| Library                             | Purpose                                     |
-|-------------------------------------|---------------------------------------------|
-| [pandas](https://pandas.pydata.org) | Data manipulation and analysis              |
-| [NumPy](https://numpy.org)          | Multi-dimensional arrays and matrix support |
-
-#### Data Visualization
-| Library                                                  | Purpose                       |
-|----------------------------------------------------------|-------------------------------|
-| [matplotlib](https://matplotlib.org)                     | Static data visualization     |
-| [folium](https://python-visualization.github.io/folium/) | Interactive map visualization |
-
-#### Network Analysis
-| Library                          | Purpose                                                  |
-|----------------------------------|----------------------------------------------------------|
-| [NetworkX](https://networkx.org) | Creation, manipulation, and analysis of complex networks |
-
-#### Natural Language Processing
-| Library                           | Purpose                                                  |
-|-----------------------------------|----------------------------------------------------------|
-| [spaCy](https://spacy.io)         | Advanced NLP pipeline and text processing                |
-| [SpaCyTextBlob](https://spacy.io) | Sentiment analysis via polarity and subjectivity scoring |
-
----
 
 ## 📂 Repository Structure
 
@@ -85,4 +53,27 @@ Introduction to network analysis using NetworkX and pandas. Covers graph theory 
 #### `geocoding.ipynb`
 Geocoding and interactive map visualization using geopy and folium. Covers coordinate lookup, location attributes, multi-result geocoding, and adding custom markers to an interactive map centered on London, Ontario.
 
----
+## 🛠️ Tools & Libraries
+
+#### Data Science
+| Library                             | Purpose                                     |
+|-------------------------------------|---------------------------------------------|
+| [pandas](https://pandas.pydata.org) | Data manipulation and analysis              |
+| [NumPy](https://numpy.org)          | Multi-dimensional arrays and matrix support |
+
+#### Data Visualization
+| Library                                                  | Purpose                       |
+|----------------------------------------------------------|-------------------------------|
+| [matplotlib](https://matplotlib.org)                     | Static data visualization     |
+| [folium](https://python-visualization.github.io/folium/) | Interactive map visualization |
+
+#### Network Analysis
+| Library                          | Purpose                                                  |
+|----------------------------------|----------------------------------------------------------|
+| [NetworkX](https://networkx.org) | Creation, manipulation, and analysis of complex networks |
+
+#### Natural Language Processing
+| Library                           | Purpose                                                  |
+|-----------------------------------|----------------------------------------------------------|
+| [spaCy](https://spacy.io)         | Advanced NLP pipeline and text processing                |
+| [SpaCyTextBlob](https://spacy.io) | Sentiment analysis via polarity and subjectivity scoring |
