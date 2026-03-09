@@ -3,6 +3,6 @@ String parsing and data manipulation in Python using a Project Gutenberg eBook d
 
 **Final grade:** 100%
 <div style="display: flex; gap: 16px;">
-  <img src="src/output/yearly_downloads.png" alt="Yearly Downloads Bar Chart" width="48%">
-  <img src="src/output/downloads_scatter.png" alt="Yearly Downloads Scatter Plot" width="48%">
+  <img src="https://github.com/user-attachments/assets/5ce3721b-3fdc-4831-a95a-9c51d67aca2a" alt="Yearly Downloads Bar Chart" width="48%">
+  <img src="https://github.com/user-attachments/assets/4aa77c8e-df00-4fc7-970e-e5e01f79f519" alt="Yearly Downloads Scatter Plot" width="48%">
 </div>
