@@ -1,4 +1,4 @@
-### Description
+### Movie Dataset Analysis I
 This lab explores a dataset of 2,000 Hollywood movies with attributes like budget, revenue, runtime, popularity, and vote count.
 
 Tasks include describing the dataset's structure and statistics, cleaning columns, computing a custom profit-per-minute metric, sorting by budget, and extracting DataFrame segments. 
