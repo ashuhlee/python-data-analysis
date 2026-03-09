@@ -1,12 +1,16 @@
-### Description
+### Spotify Dataset Analysis
 This notebook explores a dataset of ~5,200 Spotify tracks spanning 2011–2019, covering attributes like genre, danceability, acousticness, sadness, and energy. 
 
 Tasks include cleaning and reshaping the data with pandas, answering analytical questions through filtering and aggregation, and visualizing genre distributions and release trends using matplotlib.
 
 **Final grade:** 100%
 
-![genre-distribution.png](previews/genre-distribution.png)
-![track-distribution.png](previews/track-distribution.png)
+<div style="display: flex; gap: 16px;">
+  <img src="https://github.com/user-attachments/assets/029dc3b4-d1e8-45e9-af58-f5b8c42ae70a" alt="Betweeness Chart" width="48%">
+  <img src="https://github.com/user-attachments/assets/d13b1e9b-419d-4467-85f2-82cf8dd0566b" alt="Relation Chart" width="48%">
+</div>
+
+## 
 
 |      | budget    | id     | popularity | revenue   | runtime\(min\) | title                     | vote\_average | vote\_count | profit\_by\_min |
 |:-----|:----------|:-------|:-----------|:----------|:---------------|:--------------------------|:--------------|:------------|:----------------|
