@@ -1,9 +1,7 @@
 # Data Analysis & Visualization Coursework
 A portfolio of labs and assignments completed for a course at Western University. The work covers a progression from core Python programming to data analysis, visualization, network analysis, geospatial mapping, and natural language processing.
 
-## 📂 Repository Structure
-
-### Assignments
+## 📂 Assignments
 
 #### Spotify Dataset Analysis
 #### `spotify-dataset-analysis.ipynb`
@@ -12,16 +10,18 @@ Exploratory data analysis of a Spotify tracks dataset using pandas. Covers data 
 **Visualizations:**
 
 <div style="display: flex; gap: 16px;">
-  <img src="[a2] Spotify Dataset Analysis/previews/genre-distribution.png" alt="Genre Distribution Pie Chart" width="48%">
-  <img src="[a2] Spotify Dataset Analysis/previews/track-distribution.png" alt="World/Life Tracks Line Chart" width="48%">
+  <img src="https://github.com/user-attachments/assets/029dc3b4-d1e8-45e9-af58-f5b8c42ae70a" alt="Betweeness Chart" width="48%">
+  <img src="https://github.com/user-attachments/assets/d13b1e9b-419d-4467-85f2-82cf8dd0566b" alt="Relation Chart" width="48%">
 </div>
+
+## 
 
 #### eBook Dataset Analysis
 #### `ebook-dataset-analysis.ipynb`
 String parsing and data manipulation in Python using a Project Gutenberg eBook dataset. Covers string slicing and splitting, custom sorting functions, dictionary aggregation, and list manipulation.
 
 
-### Labs
+## 🔬 Labs
 
 #### Network Analysis
 #### `network-analysis.ipynb`
@@ -30,22 +30,29 @@ Introduction to network analysis using NetworkX and pandas. Covers graph theory 
 **Visualizations:**
 
 <div style="display: flex; gap: 16px;">
-  <img src="Network Analysis/output/betweenness_centrality_network.png" alt="Betweeness Chart" width="48%">
-  <img src="Network Analysis/output/relation.png" alt="Relation Chart" width="48%">
+  <img src="https://github.com/user-attachments/assets/0efaf420-031c-4afe-adab-d4c2eda1ae5f" alt="Betweeness Chart" width="48%">
+  <img src="https://github.com/user-attachments/assets/a4ba98ca-1b41-4851-93f6-ba643881bd66" alt="Relation Chart" width="48%">
 </div>
+
+## 
 
 #### Movies Dataset Analysis I
 #### `movie-dataset.ipynb`
 Pandas lab using a Hollywood movies dataset (2,000 films). Covers loading and inspecting data, dropping and renaming columns, creating derived columns, sorting, and slicing DataFrames.
 
+## 
+
 #### Movies Dataset Analysis II
 #### `movie-dataset-extended.ipynb`
 Structured data analysis and visualization using an extended movies dataset. Covers handling missing values, boolean filtering, label-based and positional slicing, value counts, and pie chart visualization with matplotlib.
+
+## 
 
 #### Sentiment Analysis
 #### `text-analysis.ipynb`
 Sentiment analysis using spaCy on the 2017 *Beauty and the Beast* screenplay. Covers polarity and subjectivity scoring, interpreting sentiment results, analyzing a full screenplay sentence-by-sentence, and visualizing sentiment trends across the plot.
 
+## 
 
 #### Geocoding & Interactive Maps
 #### `geocoding.ipynb`
